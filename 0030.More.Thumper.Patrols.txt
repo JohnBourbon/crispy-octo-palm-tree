@@ -1,6 +1,0 @@
-> /Lotus/Types/Gameplay/Eidolon/Encounters/GrineerThumperPatrol
-q|EncounterCoolDown.0|0
-q|EncounterCoolDown.1|1
-q|MaxSimultaneous|10
-# Haven't tested this variable, but it may be useful to someone
-#q|RandomWeight|1.2
