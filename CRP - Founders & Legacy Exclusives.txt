@@ -1,0 +1,662 @@
+# ------------------------------------------------------------------------- #
+# // ANCHOR ARCANE HELMETS #
+# ------------------------------------------------------------------------- #
+# 2014 legacy alt-helmet promo (ExpiryDate=1399521600 -> 2014-05-08). No
+# PremiumPrice override in the source reference -- these ship with a usable
+# price already baked into their raw metadata, so only ShowInMarket/expiry
+# need patching.
+
+# Mag - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Mag - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Mag/MagHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Nova - Alt Helmet
+> /Lotus/StoreItems/Upgrades/Skins/AntiMatter/AntiAltHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Trinity - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Trinity - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Trinity/TrinityHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Nyx - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Nyx - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Jade/JadeHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Rhino - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Rhino - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Volt - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Volt - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Volt/VoltHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Ash - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Ash - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Ninja/NinjaHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Banshee - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Banshee - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Decree/DecreeAltHelmetB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Excalibur - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Excalibur - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Frost - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Frost - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Frost/FrostHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Saryn - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Saryn - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Asp/AspAltHelmetB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Vauban - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Vauban - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Trapper/TrapperHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Ember - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Ember - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Ember/EmberHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Loki - Alt Helmet A
+> /Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# Loki - Alt Helmet B
+> /Lotus/StoreItems/Upgrades/Skins/Loki/LokiHelmetAltB
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR FOUNDERS #
+# ------------------------------------------------------------------------- #
+
+# Founders - Disciple Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilDisciple
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Founders - Hunter Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilHunter
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Founders - Master Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilMaster
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Founders - Grandmaster Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilGrandMaster
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Founders - Disciple Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Founders - Hunter Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Founders - Master Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Founders - Grandmaster Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Excalibur Prime (Founders Warframe)
+> /Lotus/StoreItems/Powersuits/Excalibur/ExcaliburPrime
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000000|PremiumPrice=1025
+
+# Excalibur Prime - Glyph (Bright)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeBright
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Excalibur Prime - Glyph (Dark)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeDark
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Excalibur Prime - Alabaster Skin
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Excalibur Prime - Bobblehead (Ship Deco)
+> /Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburPrimeBobbleHead
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Skana Prime
+> /Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000000|PremiumPrice=725
+
+# Lato Prime
+> /Lotus/StoreItems/Weapons/Tenno/Pistol/LatoPrime
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000000|PremiumPrice=600
+    # // REVIEW source line reads "r|RegularPrice-10000|" (hyphen, not "="); almost
+    # certainly a typo for r|RegularPrice=10000| (clearing the old credit price, same
+    # pattern as Heirloom Emote below). As written this find-string won't match
+    # anything in live metadata and is a no-op. Left unchanged per the never-edit-the-
+    # find-side rule -- flagging for the user to fix to "=" if confirmed.
+    r|RegularPrice-10000|
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR FOUNDERS COLLECTION #
+# ------------------------------------------------------------------------- #
+# Package-identity takeover: repurposes the existing PSPlusSyrinxCollection
+# bundle StoreItem into a generic "Founders Collection" pack containing every
+# item from the Founders section above. See metadata-property-reference.md
+# Section 1 for the technique.
+
+# Founders Collection (PS Plus Syrinx Collection package repurposed)
+> /Lotus/Types/StoreItems/Packages/PSPlusSyrinxCollection
+    DateAddedToManifest=1774447200
+    UseFeaturedTextOnSpotBox=1
+    r|LocalizeTag=/Lotus/Language/Bundles/PSPlusSyrinxCollectionName|LocalizeTag="Founders Collection"
+    r|Icon=/Lotus/Interface/Icons/StoreIcons/MarketBundles/Marketing/SyrinxCollectionPS.png|Icon=/Lotus/Interface/Icons/StoreIcons/Emblems/FoundersBadgeGrandMasterHolo.png
+    r|Diorama=/Lotus/Levels/Episodes/MarketBundleSyrinxCollection.level|Diorama=/Lotus/Levels/Episodes/WarframesExcaliburPrime.level
+    r|AvailableOnPlatform[CP_WINDOWS]=0|AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PackageDiscount=0.220
+    r|AutoCalcPrices=0|AutoCalcPrices=1
+    r|PCProdId=9999|
+    r|IsEpicPurchase=EC_DLC|
+    r|PSNProdIds=|
+    r|SCEE=0431875179696003|
+    r|SCEA=0398643361949499|
+    r|Entitlement=PRM0AL|
+    PackageComponents={
+    {
+    TypeName=/Lotus/StoreItems/Powersuits/Excalibur/ExcaliburPrime
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeBright
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageExcaliburPrimeDark
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburPrimeAlabasterSkin
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburPrimeBobbleHead
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Weapons/Tenno/Melee/LongSword/SkanaPrime
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Weapons/Tenno/Pistol/LatoPrime
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilDisciple
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilHunter
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilMaster
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/FounderSigilGrandMaster
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeDiscipleItem
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeHunterItem
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeMasterItem
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Clan/FoundersBadgeGrandMasterItem
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    }
+    }
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR HEIRLOOM #
+# ------------------------------------------------------------------------- #
+
+# Mag Heirloom - Signa/Crown
+> /Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomMagCrown
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=105
+
+# Mag Heirloom - Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Mag/MagHeirloomHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Mag Heirloom - Skin
+> /Lotus/StoreItems/Upgrades/Skins/Mag/MagHeirloomSkin
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=275
+
+# Frost Heirloom - Signa/Crown
+> /Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomFrostCrown
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=105
+
+# Frost Heirloom - Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Frost/FrostHeirloomHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Frost Heirloom - Skin
+> /Lotus/StoreItems/Upgrades/Skins/Frost/FrostHeirloomSkin
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=275
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR HEIRLOOM COLLECTION #
+# ------------------------------------------------------------------------- #
+
+# Heirloom Collection - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/HeirloomEmote
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=26|PremiumPrice=50
+    r|RegularPrice=20000|
+
+# Heirloom Collection - Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/HeirloomGlyph
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=40
+
+# Heirloom Collection - Color Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHeirloom
+    r|ShowInMarket=0|ShowInMarket=1
+    r|RegularPrice=1|PremiumPrice=100
+
+# Heirloom Collection - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/HeirloomSigil
+    r|ShowInMarket=0|ShowInMarket=1
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR HEIRLOOM PACKS #
+# ------------------------------------------------------------------------- #
+
+# Heirloom Pack A (Emote + Glyph + Color Palette + Sigil)
+> /Lotus/Types/StoreItems/Packages/HeirloomPackA
+    r|IsSteamPurchase=1|IsSteamPurchase=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=275
+    r|BundledPremiumCredits=800|BundledPremiumCredits=0
+    r|PCProdId=937|
+    r|SteamProdId=937|
+    r|EpicProdId=491df6a44fd0418badc8578aa83ad02a|
+    r|IsEpicPurchase=EC_DLC|
+    r|GdkProdId=9NW6QBG2J95P|
+    r|PSNProdIds=|
+    r|SCEE=0898388249795093|
+    r|SCEA=0782373765335418|
+    r|Entitlement=PRM0AF|
+    r|SwitchProdId=937|
+    PackageComponents={
+    {
+    TypeName=/Lotus/StoreItems/Types/Items/Emotes/HeirloomEmote
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/AvatarImages/HeirloomGlyph
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHeirloom
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/HeirloomSigil
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    }
+    }
+
+# Heirloom Pack B (Frost + Mag Heirloom Skins & Crowns)
+> /Lotus/Types/StoreItems/Packages/HeirloomPackB
+    r|IsSteamPurchase=1|IsSteamPurchase=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=685
+    r|BundledPremiumCredits=800|BundledPremiumCredits=0
+    r|PCProdId=938|
+    r|SteamProdId=938|
+    r|EpicProdId=def85fa93470437d97ade3511e36b3aa|
+    r|IsEpicPurchase=EC_DLC|
+    r|GdkProdId=9PMCHMF3CBF3|
+    r|PSNProdIds=|
+    r|SCEE=0251765307645001|
+    r|SCEA=0116816649308130|
+    r|Entitlement=PRM0AD|
+    r|SwitchProdId=938|
+    PackageComponents={
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomFrostCrown
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomMagCrown
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHeirloomSkin
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Mag/MagHeirloomSkin
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    }
+    }
+
+# Heirloom Pack C (Complete Bundle -- everything in Packs A + B)
+> /Lotus/Types/StoreItems/Packages/HeirloomPackC
+    r|IsSteamPurchase=1|IsSteamPurchase=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=960
+    r|BundledPremiumCredits=2100|BundledPremiumCredits=0
+    r|PCProdId=939|
+    r|SteamProdId=939|
+    r|EpicProdId=314a14be836f462d948ebcc7b0a3393d|
+    r|IsEpicPurchase=EC_DLC|
+    r|GdkProdId=9NLFDR80FMBF|
+    r|PSNProdIds=|
+    r|SCEE=0076885755076815|
+    r|SCEA=0043904722404833|
+    r|Entitlement=PRM0AE|
+    r|SwitchProdId=939|
+    PackageComponents={
+    {
+    TypeName=/Lotus/StoreItems/Types/Items/Emotes/HeirloomEmote
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/AvatarImages/HeirloomGlyph
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerHeirloom
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomFrostCrown
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Crowns/HeirloomMagCrown
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Frost/FrostHeirloomSkin
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Mag/MagHeirloomSkin
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Sigils/HeirloomSigil
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    }
+    }
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR PRIMED STREAMLINE #
+# ------------------------------------------------------------------------- #
+
+# Primed Streamline
+> /Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarAbilityEfficiencyModExpert
+    r|ProductCategory=Upgrades|ProductCategory=Misc
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=800
+    MarketMode=MM_VISIBLE
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR UMBRA COSMETICS BUNDLE #
+# ------------------------------------------------------------------------- #
+# The bundle's 10th component, Excalibur Umbra's Therion Helmet
+# (ExcaliburUmbraAltHelmet), is already unlocked standalone in
+# "UD - Unoptainables & Plattform Exclusives.txt" (ANCHOR OTHER) -- not
+# re-patched here to avoid overlap with that entry.
+
+# Umbra Cosmetics Bundle
+> /Lotus/Types/StoreItems/Packages/UmbraCosmeticsBundle
+    PackageComponents={
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraAArmor
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraCArmor
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraLArmor
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Katana/UmbraDaxNikana
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Umbra/UmbraDaxGlaive
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Scarves/UmbraDaxSyandana
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/KubrowArmorUmbra
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/UmbraKavatArmor
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Types/Items/ShipDecos/UmbraDaxPortrait
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    },
+    {
+    TypeName=/Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburUmbraAltHelmet
+    PurchaseQuantity=1
+    Durability=COMMON
+    GiveMaxRank=0
+    }
+    }
+    r|PackageDiscount=0.208|PackageDiscount=0.139
+
+# Umbra Armor - Shoulder Plate (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraAArmor
+
+# Umbra Armor - Chest Plate (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraCArmor
+
+# Umbra Armor - Leg Plate (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/UmbraArmour/UmbraLArmor
+
+# Umbra Dax - Nikana Skin (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Katana/UmbraDaxNikana
+
+# Umbra Dax - Glaive Skin (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Umbra/UmbraDaxGlaive
+
+# Umbra Dax Syandana (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/UmbraDaxSyandana
+
+# Umbra Kubrow Armor (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/KubrowArmorUmbra
+
+# Umbra Kavat Armor (bundle component only)
+> /Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/UmbraKavatArmor
+
+# Umbra Dax Portrait (Ship Deco, bundle component only)
+> /Lotus/StoreItems/Types/Items/ShipDecos/UmbraDaxPortrait

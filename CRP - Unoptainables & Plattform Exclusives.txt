@@ -1,0 +1,3354 @@
+# ------------------------------------------------------------------------- #
+# // ANCHOR CHANGELOG #
+# ------------------------------------------------------------------------- #
+
+# Mixer Promo Added: 
+    # Kyroptera Panoply Syandana
+
+# Twitch Promo Added: 
+    # Apis Syandana; Stezia Sumbha Syandana; Avia Prime Syandana; Avia Prime Leg, Chest, Shoulder Plates; 
+    # Vayas Prime Mask, Diadem, Earpiece; K.O.L. Drippy-Assisted Tactical Syandana; Opula Ephemera;
+    # Pyra Opula Sugatra; Pyra Opula Syandana; Kudzon Ephemera; Prime Finish - Palette; Prime Lacquer - Palette;
+    # Filigree Prime; Corpus Interior
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2016 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2016 - Syandana 
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TennoConScarf
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2016 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2016Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2016 - Emblem 
+> /Lotus/StoreItems/Upgrades/Skins/Clan/TennoCon2016BadgeItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2017 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2017 - Syandana 
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TennoCon2017Scarf
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2017 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2017Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2017 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2017Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2017 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2017Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2018 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2018 - Shoulder Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorA
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2018 - Chest Plate 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorC
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2018 - Leg Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2018Armor/TennoCon2018ArmorL
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2018 - Sigil 
+/Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2018Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# NOT WORKING
+# TennoCon 2018 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2018Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2018 - Display
+/Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2018Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2018 - Unity
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2018PlanterA
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2018 - Lua Planter
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2018PlanterB
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2018 - Flower Decanter
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2018PlanterC
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2019 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2019 - Shoulder Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2019Armor/TennoCon2019AArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2019 - Chest Plate 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2019Armor/TennoCon2019CArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2019 - Leg Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2019Armor/TennoCon2019LArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2019 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2019Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# NOT WORKING
+# TennoCon 2019 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2019Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# NOT WORKING
+# TennoCon 2019 - Sanctuary Showcase Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2019SimarisGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# NOT WORKING
+# TennoCon 2019 - Grineer Security Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Gamification2019Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2019 - Sanctuary Showcase Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2019SimarisDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2019 - Grineer Security Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Gamification2019Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2019 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2019Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2019 - Emote 
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2019Emote 
+    ShowInMarket=1
+    PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2020 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2020 - Syandana 
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TennoCon2020Scarf
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2020 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2020Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2020 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2020Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - Void Moon Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Bird
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - Entrati Proxy Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Drone
+    ShowInMarket=1
+    PremiumPrice=30 
+
+# TennoCon 2020 - Void Mirror Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Gate
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - Entrati Mech Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Mech
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - Infested Sun Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageGlyphErisTennocon2020Monster
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - TennoTrivia 2020 Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2020SimarisGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - TennoCon 2020 Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2020Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2020 - Tennotrivia 2020 Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2020SimarisDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2020 - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2020BEmote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2020 - The New War Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2020AEmote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2021 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2021 - Shoulder Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021AArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2021 - Chest Plate 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021CArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2021 - Leg Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2021Armor/TennoCon2021LArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2021 - Ephemera 
+> /Lotus/StoreItems/Upgrades/Skins/Effects/TennoCon2021Ephemera
+    ShowInMarket=1
+    PremiumPrice=75
+
+# TennoCon 2021 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2021Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2021 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2021Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2021 - Merch Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2021MerchGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2021 - Ballas Portrait Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021BallasPortrait
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Merch Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021MerchDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2021Emote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2021 - Art Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayBaseTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Ordis Punny Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayFunniestTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Best In Show Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayBestInShowTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Clem's Choice Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Master Teasonai Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayBestPetTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2021 - Solaris Worksmanship Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2021CosplayBestWorkmanshipTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2022 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2022 - Hood 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Hood A 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Sleeves 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Sleeves A 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultM2022Tennocon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Suit 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Suit A 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Leggings 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Leggings A 
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultM2022TennoCon
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2022 - Shoulder Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2022Armor/TennoCon2022AArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2022 - Chest Plate 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2022Armor/TennoCon2022CArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2022 - Leg Plates 
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TennoCon2022Armor/TennoCon2022LArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# TennoCon 2022 - Sugatra 
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/TennoCon2022SugatraMeleeDangle
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Sigil 
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2022Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2022 - Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2022Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2022 - Merch Glyph 
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2022MerchGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2022 - Duviri Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022OrokinPortrait
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Merch Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022MerchDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2022Emote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2022 - Art Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayBaseTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Ordis Punny Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayFunniestTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Best In Show Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayBestInShowTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Clem's Choice Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Master Teasonai Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayBestPetTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2022 - Solaris Worksmanship Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2022CosplayBestWorkmanshipTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2023 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2023 - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TennoCon2023Cape
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2023 - Nefertym Rapier Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Rapier/TnLotusRapierSkin
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2023 - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2023Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2023 - Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Ten Year Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023MerchGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Best In Show Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023BestInShowAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Master Teasonai Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023BestPetAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Solaris Workmanship Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023BestWorkmanshipAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Floofy Cuteness Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023CutenessAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Ordis Punny Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2023FunniestAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2023 - Display 2023 Soundtrack
+> /Lotus/StoreItems/Items/ShipDecos/Tennocon2023SoundtrackBDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2023 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2023Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2023 - Display 2023 Soundtrack
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2023SoundtrackADisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2023 - Lotus Floof
+> /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyLotus
+    ShowInMarket=1
+    PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2024 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2024 - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TennoCon2024Scarf
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2024 - Protokol Hira Thrown Weapon Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Throwable/TennoCon2024NinjaStarSkin
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2024 - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2024Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2024 - Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Orokin Gold Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024BestInShowAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Ordis Punny Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024FunniestAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Master Teasonai Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024BestPetAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Floofy Cuteness Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024CutenessAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Solaris Workmanship Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024BestWorkmanshipAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2024Emote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2024 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2024Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2024 - Orokin Gold Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2024CosplayBestInShowTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2024 - Ordis Punny Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2024CosplayFunniestTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2024 - Master Teasonai Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2024CosplayBestPetTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2024 - Floofy Cuteness Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2024CosplayTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2024 - Solaris Worksmanship Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2024CosplayBestWorkmanshipTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2025 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2025 - Origins Bandana
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/Tennocon2025Bandana
+    ShowInMarket=1
+    PremiumPrice=35
+
+# TennoCon 2025 - Riftguard Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TC2025Scarf
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2025 - Riftguard Syandana (Void-swept)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TC2025EvolvedScarf
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2025 - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2025Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2025 - Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2025Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2025 - 1st Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2025FirstPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2025 - 2nd Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2025SecondPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2025 - 3rd Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2025ThirdPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2025 - Pin Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2025DigitalItemDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2025Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Riftguard Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2025Emote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2025 - 1st Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayFirstPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - 2nd Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplaySecondPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - 3rd Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayThirdPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Orokin Gold Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayOrokinGoldTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Lotus' Choice Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayLotusChoiceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Ostron Ingenuity Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayOstronIngenuityTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Solaris Worksmanship Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayBestWorkmanshipTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2025 - Bombastic Performance Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2025CosplayBombasticTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON 2026 #
+# ------------------------------------------------------------------------- #
+
+# TennoCon 2026 - Dex Signa
+> /Lotus/StoreItems/Upgrades/Skins/Crowns/Dex2026LotusHaloCrown
+    ShowInMarket=1
+    PremiumPrice=70
+
+# TennoCon 2026 - Hunhullus Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/TennoCon2026Ephemera
+    ShowInMarket=1
+    PremiumPrice=105
+
+# TennoCon 2026 - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TennoCon2026Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# TennoCon 2026 - Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - 1st Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026FirstPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - 2nd Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026SecondPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - 3rd Place Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026ThirdPlaceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Orokin Gold Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026OrokinGoldAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Lotus' Choice Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026LotusChoiceAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 Community Art Showcase Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026CommunityArtShowcaseGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Ostron Ingenuity Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026OstronIngenuityAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Solaris Worksmanship Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026BestWorkmanshipAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Bombastic Performance Award Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2026BombasticAwardGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2026Display
+    ShowInMarket=1
+    PremiumPrice=20
+
+# NOT WORKING
+# TennoCon 2026 - Pin Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2026DigitalItemDisplay
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2026Emote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon 2026 - 1st Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayFirstPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - 2nd Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplaySecondPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - 3rd Place
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayThirdPlaceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Orokin Gold Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayOrokinGoldTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Lotus' Choice Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayLotusChoiceTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Ostron Ingenuity Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayOstronIngenuityTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 Community Art Showcase Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CommunityArtShowcaseTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Solaris Worksmanship Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayBestWorkmanshipTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# TennoCon 2026 - Bombastic Performance Award
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoCon2026CosplayBombasticTrophy
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOCON (MIXED YEARS -- SORT BY YEAR MANUALLY) #
+# ------------------------------------------------------------------------- #
+
+# TennoCon CRT Emote
+> /Lotus/StoreItems/Types/Items/Emotes/Tennocon2024EmoteAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# The New War Orbiter Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/OculystStatue
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Fass Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConA
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Scissus Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConB
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Velocipod Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConC
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Flagellocanth Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConD
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Lobotriscid Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConE
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Jugulus Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConF
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Saxum Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConG
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Carnis Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConH
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Xaku Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConI
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Deimos Kymaeros Prex
+> /Lotus/StoreItems/Types/Items/ShipDecos/TarotCardTennoConJ
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Display - 2023 Soundtrack
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2023SoundtrackBDisplay
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Verminia Cosplay Community Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Tennocon2026CosplayDisplay
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Flare Varleon & Lizzie Poster Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoconConcert2025Display
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Ghost Tier Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoConDojoGhostTrophy
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Moon Tier Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoConDojoMoonTrophy
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Mountain Tier Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoConDojoMountainTrophy
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Shadow Tier Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoConDojoShadowTrophy
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Storm Tier Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/TennoConDojoStormTrophy
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Monotone Ember Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeEmber
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Kullervo Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeKulervo
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Mesa Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeMesa
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Octavia Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeOctavia
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Rhino Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeRhino
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Styanax Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeStynax
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Monotone Xaku Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageBadgeXaku
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# TennoCon CRT Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TennoCon2024GlyphAlt
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR PLAYSTATION #
+# ------------------------------------------------------------------------- #
+
+# // REVIEW PSIV - Palette: SHOWS UP BUT IS NOT BUYABLE
+# PSIV - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPS4ItemA
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Excalibur - Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    PremiumPrice=225
+    AdditionalItems={{
+                    TypeName=ExcaliburPSPlusSkinHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Obsidian Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ExcaliburPSPlusSkinHelmet
+
+# Excalibur - Obsidian Azura Skin
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ObsidianExcaliburSkinB
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    PremiumPrice=225
+    AdditionalItems={{
+                    TypeName=ObsidianExcaliburHelmetB
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Obsidian Azura Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ObsidianExcaliburHelmetB
+
+# NOT WORKING
+# Ivara - Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Archer/ObsidianIvaraSkin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    PremiumPrice=225
+    AdditionalItems={
+                    {TypeName=ObsidianIvaraHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0},
+
+                    {TypeName=ObsidianIvaraExaltedBowSkin
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0}
+                    }
+
+# Ivara - Obsidian Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Archer/ObsidianIvaraHelmet
+
+# NOT WORKING
+# Ivara Obsidian Artemis Bow Skin
+> /Lotus/StoreItems/Upgrades/Skins/Archer/ObsidianIvaraExaltedBowSkin
+
+# Oberon - Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Paladin/OberonPS4Skin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=225
+    AdditionalItems={
+                    {TypeName=OberonPS4Helmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0},
+
+                    {TypeName=OberonPS4Alt2Helmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0}
+                    }
+
+# Oberon - Obsidian Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Paladin/OberonPS4Helmet
+
+# Oberon - Obsidian Markhor Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Paladin/OberonPS4Alt2Helmet
+
+
+# Odonata - Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianStandardArchwingSkin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Yomo Obsidian Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PS4ArmScarf
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Samia Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/ObsidianSamiaScarf
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Sedai Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PS5Syandana
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Azura Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/ObsidianAzureScarf
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Corvus Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/ObsidianCrowSyandana
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Kyroptera Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/ObsidianKyropteraScarf
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Obsidian Azura Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Sony/OAArmorA
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Obsidian Azura Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Sony/OAArmorC
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Obsidian Azura Leg Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Sony/OAArmorL
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Obsidian Deko Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PS5Armor/PS5ArmorA
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Obsidian Deko Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PS5Armor/PS5ArmorC
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Obsidian Deko Knee Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PS5Armor/PS5ArmorL
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Dendra Obsidian Shoulder Guard
+> /Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/PS4CrpFncAArmor
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Dendra Obsidian Leg Guard
+> /Lotus/StoreItems/Upgrades/Skins/Armor/CorpusFencer/PS4CrpFncLArmor
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+Provvok Obsidian Shoulder Guard
+> /Lotus/StoreItems/Upgrades/Skins/Armor/GrnFaceMaskArmour/ObsidianFaceMaskArmour
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+
+# Obsidian Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/ObsidianEphemeraA
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Hek Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianHek
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Lato Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/PS4Lato
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=413
+
+# Spira Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianSpira
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Viper Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianViper
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Twin Vipers Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianTwinVipers
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Skana Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/PS4Skana
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Serro Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianSerro
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Okina Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/PS5OkinaSkin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Glaive Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianGlaive
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Attica Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianAttica
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Gorgon Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianGorgon
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Braton Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/PS4Braton
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Boltor Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianBoltor
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Magnus Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianMagnus
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Akmagnus Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianAkmagnus
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Nikana Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianNikana
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Quanta Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianQuanta
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Corinth Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianCorinth
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Pennant Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianPennant
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Scoliac Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianScoliac
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Sonicor Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianSonicor
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Tiberon Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/PS5TiberonSkin
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Galatine Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianGalatine
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dex Dakra Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/DexTheSecond/ObsidianDexDakra
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dex Furis Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianDexFuris
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Paracesis Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/GreatSword/PS4BallasSword
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Silva & Aegis Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianSilvaAndAegis
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Grattler Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianGrattler
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=65
+
+# Obsidian Azura Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ObsidianSugatraMeleeDangle
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Obsidian Monast Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/Obsidian2SugatraMeleeDangle
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Wyrm Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianWyrm
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Helios Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianHelios
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Coltek Obsidian Sentinel Mask
+> /Lotus/StoreItems/Upgrades/Skins/Sony/ObsidianColtekMask
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Liset Obsidian Skin
+> /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinObsidian
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Obsidian Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4RenownXSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Obsidian Corvus Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4CrowSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Obsidian Indra Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/ObsidianIndraSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Cycle One Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4OneYearSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Cycle Two Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4TwoYearSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Cycle Three Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4ThreeYearSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Cycle Four Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4FourYearSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Cycle Five Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PS4FiveYearSigil
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Tiberon Obsidian Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/DrakeRifleBadgeItem
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Mesa Okina Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Sony/AvatarImageOkinaGlyph
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=30
+
+# Excalibur Obsidian Azura Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageExcaliburActionSony
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=30
+
+# Tiberon Obsidian Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageDrakeRifle
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=30
+
+# Noggle Statue - Ivara Obsidian
+> /Lotus/StoreItems/Types/Items/ShipDecos/IvaraObsidianBobbleHead
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Noggle Statue - Excalibur Obsidian
+> /Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburObsidianBobbleHead
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Noggle Statue - Excalibur Obsidian Azura
+> /Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburObsidianAzuraBobbleHead
+    AvailableOnPlatform[CP_WINDOWS]=1
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR XBOX #
+# ------------------------------------------------------------------------- #
+
+# Jade Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerJadeItem
+    ShowInMarket=1
+    ProductPrice=75
+
+# Excalibur Jade Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/ExcaliburXBoneSkinHelmet
+
+# Excalibur Jade Skin 
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/ExcaliburXBoneSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    r|PremiumPrice=1|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=ExcaliburXBoneSkinHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Rhino Jade Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeRhinoHelmet
+
+# Rhino Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeRhinoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    r|PremiumPrice=1|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=JadeRhinoHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Valkyr Jade Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Berserker/JadeValkyrHelmet
+
+# Valkyr Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Berserker/JadeValkyrSkin
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=JadeValkyrHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Jade Axa Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/JadeSyandana
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Jade Broca Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TnLargeCapeXbox
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Jade Bombyx Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/JadeBombyxScarf
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Imperator Jade Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/JadeTurtleNeckScarf
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=105
+
+# Jade Axa Shoulder Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Microsoft/JadeAxaArmourA
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Jade Axa Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Microsoft/JadeAxaArmourC
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Jade Axa Leg Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Microsoft/JadeAxaArmourL
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Jade Daedalus Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/JadeSetThreeArmArmor
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Jade Daedalus Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/JadeSetThreeChestArmor
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Jade Daedalus Knee Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/JadeSetThreeLegArmor
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Itzal Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeStealthArchwingSkin
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Kama Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeKama
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dual Kamas Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeDualKamas
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Tonkor Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeTonkor
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Latron Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeLatron
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Fragor Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeFragor
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Grakata Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeGrakata
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Twin Grakatas Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeTwinGrakatas
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Cassowar Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeCassowarSkin
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dex Dakra Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeDexDakra
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dex Furis Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeDexFuris
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Paracesis Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/GreatSword/XB1BallasSword
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Heat Sword Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeHeatSword
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Dual Heat Swords Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeDualHeatSwords
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Heat Dagger Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeHeatDagger
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Jade Follox Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/XBoxSugatra2MeleeDangle
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Jade Patika Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/JadePatikaMeleeDangle
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=20
+
+# Carrier Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeCarrier
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Dethcube Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeDethcube
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Chrysalis Jade Wings
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Microsoft/JadeInfestedWings
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Liset Jade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinJade
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=55
+
+# Stoka Jade Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XBoneJadeSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Capala Jade Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XboneJadeTwoSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Seal Of Honoring
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XBoneOneYearSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Seal Of Honoring II
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XBoneTwoYearSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Seal Of Honoring III
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XBoneThreeYearSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Seal Of Honoring IV
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/XBoneFourYearSigil
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=40
+
+# Jade Clem Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/XBoneJadeClemBadgeItem
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=50
+
+# Excalibur Jade Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageExcaliburActionXbox
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=30
+
+# Noggle Statue - Jade Rhino
+> /Lotus/StoreItems/Types/Items/ShipDecos/RhinoJadeBobbleHead
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=35
+
+# Noggle Statue - Excalibur Jade
+> /Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburJadeBobbleHead
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=35
+
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR NINTENDO #
+# ------------------------------------------------------------------------- #
+
+# Opal Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerSwitchItemA
+    ShowInMarket=1
+    ProductPrice=75
+
+# Excalibur Opal Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageExcaliburActionNintendo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Volt - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Volt/NintendoVolt
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=NintendoVoltHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Volt - Opal Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Volt/NintendoVoltHelmet
+
+# Excalibur - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/NintendoExcalibur
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=NintendoExcaliburHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Opal Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/NintendoExcaliburHelmet
+
+# Frost - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Frost/NintendoFrost
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=NintendoFrostHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Frost - Opal Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Frost/NintendoFrostHelmet
+
+# Mag - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Mag/NintendoMag
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=NintendoMagHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Mag - Opal Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Mag/NintendoMagHelmet
+
+# Loki - Opal Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Loki/NintendoLokitHelmet
+
+# Loki - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Loki/NintendoLoki
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=NintendoLokitHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Dex Dakra - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/DexTheSecond/NintendoDexDakra
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=75
+
+# Twin Grakatas - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/GrineerAssaultRifle/NintendoGrineerAssaultRifleSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Guandao - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Guandao/NintendoGaundaoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Lato - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Nintendo/NintendoSemiAutoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Aklato - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Nintendo/NintendoAklatoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Corinth - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/TnHeavyShotgun/NintendoTnHeavyShotgunSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Fragor - Opal Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Hammers/NintendoFragor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Opal Imperator Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/NintendoTurtleNeckScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=105
+
+# Opal Marteddu Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/SugatraNintendo
+    ShowInMarket=1
+    PremiumPrice=20
+
+# Noggle Statue - Opal Excalibur
+> /Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburOpalBobbleHead
+    ShowInMarket=1
+    PremiumPrice=35
+
+# Akomeogi Warfan Skin
+> /Lotus/StoreItems/Upgrades/Skins/Koumei/KoumeiWarfanSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR STEAM WORKSHOP - PINNACLE PACKS #
+# ------------------------------------------------------------------------- #
+
+# Excalibur - Onyx Skin
+> /Lotus/StoreItems/Upgrades/Skins/SteamEsteem/EsteemExcalibur
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=EsteemExcaliburHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Onyx Helmet
+> /Lotus/StoreItems/Upgrades/Skins/SteamEsteem/EsteemExcaliburHelmet
+
+# Lex - Onyx Skin
+> /Lotus/StoreItems/Upgrades/Skins/SteamEsteem/EsteemLex
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Orthos - Onyx Skin
+> /Lotus/StoreItems/Upgrades/Skins/SteamEsteem/EsteemOrthos
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Tigris - Onyx Skin
+> /Lotus/StoreItems/Upgrades/Skins/SteamEsteem/EsteemTigris
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR STEAM WORKSHOP - PHASED COLLECTION #
+# ------------------------------------------------------------------------- #
+
+# Phased Clan Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/ClanSigilBasicAdd
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=40
+
+# Vasto - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Void/VastoVoidSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Akvasto - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Void/AkvastosVoidSkin 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Orthos - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Events/BlackoutOrthos
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Tigris - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Void/TigrisVoidSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Ankyros - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Void/AnkyrosVoidSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Vauban - Phased Skin
+> /Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=VaubanVoidSkinHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Vauban - Phased Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Trapper/VaubanVoidSkinHelmet
+
+# Asa - Phased Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/EnergyScarfVoidSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=105
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR STEAM WORKSHOP - RUBEDO COLLECTION #
+# ------------------------------------------------------------------------- #
+
+# Rhino - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=RhinoRubedoSkinHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Rhino - Rubedo Plated Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/RhinoRubedoSkinHelmet
+
+# Viper - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoViperCamo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+    AdditionalItems={{
+                    TypeName=RubedoAkimboViperCamo
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Twin Vipers - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoAkimboViperCamo
+
+# Drakgoon - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoDrakgoonCamo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Galatine - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/ReferralSeriesTwo/RubedoGalatineCamo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Yamako - Rubedo Plated Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/RubedoDinoSpikeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=105
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR DISCORD #
+# ------------------------------------------------------------------------- #
+
+# Color Palette - Discord
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerDiscordItemA
+    ShowInMarket=1
+    r|RegularPrice=1|RegularPrice=150000
+
+# Excalibur - Amethyst Skin 
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/DiscordExcalibur
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=DiscordExcaliburHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Amethyst Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/DiscordExcaliburHelmet
+
+# Mag - Amethyst Skin 
+> /Lotus/StoreItems/Upgrades/Skins/Mag/DiscordMag
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=DiscordMagHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Mag - Amethyst Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Mag/DiscordMagHelmet
+
+# Volt - Amethyst Skin 
+> /Lotus/StoreItems/Upgrades/Skins/Volt/DiscordVolt
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=DiscordVoltHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Volt - Amethyst Helmet 
+> /Lotus/StoreItems/Upgrades/Skins/Volt/DiscordVoltHelmet
+
+# Brazilian Community Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBRCommunityDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Warframe Community Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCommunityDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conclave Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageConclaveDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# FR Community Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFRCommunityDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# German Community Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGermanCommunityDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Korean Community Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKoreanCommunityDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Saturn Six Bar Discord Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSaturnSixBarDiscord
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TWITCH PRIME GAMING #
+# ------------------------------------------------------------------------- #
+
+# Twitch - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwitchItemA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Prime Finish - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPrimeWarframesItemA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Prime Lacquer - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPrimeWarframesItemB 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Spektaka - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerPrimeDayItemA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Pack Leader Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/BaroKubrowSigil
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=40
+
+# Naktavyre Shoulder Armor
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorA
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Naktavyre Chest Armor
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorC
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Naktavyre Leg Armor
+> /Lotus/StoreItems/Upgrades/Skins/Armor/SentNewWarArmor/SentNewWarArmorL
+    ExcludeFromCodex=0
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Eminence - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwitchBItemA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Potentia - Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTwitchItemC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|ExpiryDate=1399521600|MarketMode=MM_VISIBLE
+    PremiumPrice=75
+
+# Raya Aurora - Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/Twitch2023Ephemera
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=75
+
+# Octavia Iridos In Action Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageOctaviaActionTwitch 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Necraloid Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/TwitchNecraloidGlyph 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Spektaka Liset Skin
+> /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinTwitchPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=55
+
+# Necraseal Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/TwitchNecraloidBadgeItem
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=50
+
+# Necraloid Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchNecraloidSigil
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=40
+
+# Corpus Interior - Orbiter Appearance
+> /Lotus/StoreItems/Types/Game/ShipScenes/CorpusShipScene
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=85
+
+# Filigree Prime - Orbiter Appearance
+> /Lotus/StoreItems/Types/Game/ShipScenes/PrimeLisetFiligreeScene
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# Static Reactor Prime Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchPrimeSigil
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=60
+
+# Spektaka Prime Sugatra
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Spektaka Prime - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TwitchPrimeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=160
+
+# Avia Prime - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeAviaSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=160
+
+# Avia Prime Leg Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeAviaArmor/PrimeAviaLArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=75
+
+# Avia Prime Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeAviaArmor/PrimeAviaCArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Avia Prime Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeAviaArmor/PrimeAviaAArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Vayas Prime Mask
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/VayasPrimeMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=55
+
+# Vayas Prime Diadem
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/VayasPrimeDiadem
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=55
+
+# Vayas Prime Earpiece
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/VayasPrimeEarpiece
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=55
+
+# Vistapa - Prominence Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeTwitchScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=105
+
+# Apis - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/InfMembraneCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# Stezia Sumbha - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/AmazonOniSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# K.O.L. Drippy-Assisted Tactical - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/LasBackpackMedkitSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# Pyra Opula - Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/FlameScarfRefresh
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# Pyra Opula - Sugatra 
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/FireMeleeDangleRefresh
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Pyra Opula - Ephemera 
+> /Lotus/StoreItems/Upgrades/Skins/Effects/OpulaEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Kudzon Opula - Ephemera 
+> /Lotus/StoreItems/Upgrades/Skins/Effects/OvergrowthEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TWITCH VERV #
+# ------------------------------------------------------------------------- #
+
+# Verv - Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchPromo2021Sigil
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=40
+
+# Domestik Verv Drone
+> /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=50
+
+# Verv Sentrex Stencil
+> /Lotus/StoreItems/Types/Game/QuartersWallpapers/TwitchPrimeWallpaper
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=30
+
+# Verv - Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/TwitchEphemera
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=75
+
+# Verv - Ifrit Kubrow Armor
+> /Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/Twitch2021IfritKubrowArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=50
+
+# Loki - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Loki/LokiTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=LokiTwitchHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Loki - Verv Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Loki/LokiTwitchHelmet
+
+# Verv Loki Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageLokiActionTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Liset - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/LisetSkinTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=55
+
+# Verv Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Twitch2021Armor/TwitchArmor2021A
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=50
+
+# Verv Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Twitch2021Armor/TwitchArmor2021C
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=50
+
+# Verv Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/Twitch2021Armor/TwitchArmor2021L
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=50
+
+# Verv Myrdin Kavat Armor
+> /Lotus/Upgrades/Skins/Catbrows/Armor/Twitch2021MyrdinCatbrowArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# Verv Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/TwitchPromo2021BadgeItem
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=50
+
+# Afuris / Furis - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/Twitch2021AfurisSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Furis - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/Twitch2021FurisSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Penta - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/TwitchPentaSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=75
+
+# Rubico - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/TwitchRubicoSkin 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=75
+
+# Redeemer - Verv Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Redeemer/RedeemerTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Atelia - Verv Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/Twitch2021Syandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=105
+
+# Verv Sentrex - Sentinel Mask
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/TwitchSentHeadMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=20
+
+# Verv Sentrex - Sentinel Tail
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/TwitchSentTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=20
+
+# Verv Sentrex - Sentinel Wings
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/TwitchSentWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=20
+
+# Verv Sentrex Sentinel Tail
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/TwitchSentTail
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Verv Sentrex Sentinel Wings
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/TwitchSentWings
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TWITCH PROMINENCE #
+# ------------------------------------------------------------------------- #
+
+# Prominence Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchProminenceSigil
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=40
+
+# Prominence Wisp Totem
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/TwitchProminenceSigil
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    ProductPrice=30
+
+# Volt - Prominence Skin
+> /Lotus/StoreItems/Upgrades/Skins/Volt/VoltTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=VoltTwitchHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Volt - Prominence Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Volt/VoltTwitchHelmet
+
+# Excalibur - Prominence Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/ExcaliburTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1|PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=ExcaliburTwitchSkinHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Excalibur - Prominence Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/ExcaliburTwitchSkinHelmet
+
+
+# Broca - Prominence Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TnLargeCapeTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=105
+
+# Ankyros - Prominence Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/TwitchAnkyros
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Tigris - Prominence Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/TigrisTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Prominence Wisp Totem
+> /Lotus/StoreItems/Types/Items/ShipDecos/ResourceDecoItemCetusWispTwitch
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TWITCH IRIDOS #
+# ------------------------------------------------------------------------- #
+
+# Octavia Iridos - In Action Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageOctaviaActionTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Iridos Shawzin
+> /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropShawzinTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=50
+
+# Mantis Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Liset/LisetInsectSkinIridos
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=55
+
+# Udyat - Iridos Syandana
+> /Lotus/StoreItems/Characters/Tenno/Accessory/Scarves/U17IntermScarf/IridosUdyatSkin/UdyatPrimeGamingSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=105
+
+# Iridos Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/CrpModular/CrpModularAArmorTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=50
+
+# Iridos Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/CrpModular/CrpModularCArmorTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=50
+
+# Iridos Shoulder Plates
+> /Lotus/StoreItems/Upgrades/Skins/Armor/CrpModular/CrpModularLArmorTwitch
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=50
+
+# // REVIEW Octavia - Iridos Skin - Needs Tinkering
+# Octavia - Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Bard/BardTwitchSkin 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=BardTwitchHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Octavia - Iridos Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Bard/BardTwitchHelmet
+
+# Octavia - Iridos Mix Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Bard/BardTwitchAltHelmet 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Akjagara - Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/AkjagaraIridosSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Ogris - Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/OgrisTwitchSkin 
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=75
+
+# Pyrana - Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Twitch/PyranaTwitchSkin  
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Kronen - Iridos Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Tonfa/KronenTwitchSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Iridos Voidrig Necramech Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Necramech/TefilahIridosHelmet
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Iridos Voidrig Necramech Skin
+> /Lotus/StoreItems/Upgrades/Skins/Necramech/TefilahIridosSkin
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=165
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR UNREAL TOURNAMENT #
+# ------------------------------------------------------------------------- #
+
+# Drakgoon Flak Cannon Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/DrakgoonFlakCannonSkin
+    ShowInMarket=1
+
+# Ogris Rocket Launcher Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/OgrisRocketLauncherSkin 
+    ShowInMarket=1
+
+# Stahlta Shock Rifle Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/UnrealTournament/StahltaShockRifleSkin 
+    ShowInMarket=1
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR CHINA EXCLUSIVE #
+# ------------------------------------------------------------------------- #
+
+# 17173 EMBLEM
+> /Lotus/StoreItems/Upgrades/Skins/Clan/CY17173MediaBadge
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# COMMEMORATIVE EMBLEM
+> /Lotus/StoreItems/Upgrades/Skins/Clan/CYCCBBadgeItem
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# DUOWAN EMBLEM
+> /Lotus/StoreItems/Upgrades/Skins/Clan/CYDuowanMediaBadge
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# INFINITY EMBLEM
+> /Lotus/StoreItems/Upgrades/Skins/Clan/CYOBBadgeItem
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# PLAY EMBLEM
+> /Lotus/StoreItems/Upgrades/Skins/Clan/CYPlayBadgeItem
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=50
+
+# Primate Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/MonquisCYSigil
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=40
+
+# Rhino - Bronze Skin
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/ChangYou/CYRhinoRubedoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=CYRhinoRubedoSkinHelmet 
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Rhino - Bronze Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/ChangYou/CYRhinoRubedoSkinHelmet
+
+# Excalibur Umbra - Therion Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Rhino/ChangYou/CYRhinoRubedoSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Drakgoon - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/ChangYou/CYRubedoDrakgoonCamo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# Galatine - Rubedo Plated Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/ChangYou/CYRubedoGalatineCamo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# SINGLE STAFF SKIN
+> /Lotus/StoreItems/Upgrades/Skins/Promo/ChangYou/CYSingleStaffSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR MISC PROMO #
+# ------------------------------------------------------------------------- #
+
+# Aklato - RixtyMOL
+> /Lotus/StoreItems/Upgrades/Skins/Promo/RixtyMOL/RixtyMOLAklatoSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Dark Split-Sowrd - Dulus Skin (PCGamer)
+> /Lotus/StoreItems/Upgrades/Skins/Promo/PCGamer/PCGamerDarkSwordDaggerHybridSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Braton - Nvidia
+> /Lotus/StoreItems/Upgrades/Skins/Nvidia/NvidiaBratonSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Braton - IAHGames Social
+> /Lotus/StoreItems/Upgrades/Skins/IAHGames/IAHGamesBratonSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Kyroptera Panoply Syandana - Mixer Promo
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/MixerKyropteraScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=105
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SUPPORTER PACKS - EMPYREAN #
+# ------------------------------------------------------------------------- #
+
+# Itzal Armor Shoulder Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/RailjackArmor/ItzalArmourA
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Itzal Armor Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/RailjackArmor/ItzalArmourC
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Itzal Armor Leg Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/RailjackArmor/ItzalArmourL
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Empyrean Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/ArchwingSigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# Commander Emote
+> /Lotus/StoreItems/Types/Items/Emotes/CaptainEmote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Railjack In Action Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRailjackInAction
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Empyrean Poster
+> /Lotus/StoreItems/Types/Items/ShipDecos/EmpyreanPoster
+    ShowInMarket=1
+    PremiumPrice=20
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SUPPORTER PACKS - SANCTUM #
+# ------------------------------------------------------------------------- #
+
+# Sanctum Color Pallette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerKalymos
+    ShowInMarket=1
+    ProductPrice=75
+
+# Albrecht's Treasures Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/KalymosGrimoireGlyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Too Late Emote
+> /Lotus/StoreItems/Types/Items/Emotes/PunctualityEmote
+    ShowInMarket=1
+    PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SUPPORTER PACKS - NEW WAR RECKONING #
+# ------------------------------------------------------------------------- #
+
+# Ravurex Gunblade Skin
+> /Lotus/StoreItems/Upgrades/Skins/Weapons/Redeemer/RedeemerTNWNarmerSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Narmer Color Palette
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerNarmer
+    ShowInMarket=1
+    ProductPrice=75
+
+# Archon Nira Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/NewWar2021Glyph
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Archon Nira Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/NewWar2021Sigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SUPPORTER PACKS - SISTERS OF PARVOS #
+# ------------------------------------------------------------------------- #
+
+# Ambassador Tenet Skin
+> /Lotus/StoreItems/Upgrades/Skins/CrpArSniper/CrpArSniperLichSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Glaive Boomie Skin
+> /Lotus/StoreItems/Upgrades/Skins/SolarisUnited/SUVentkidsBoomerang
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Yareli Aquablade Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/YareliSigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TENNOBAUN #
+# ------------------------------------------------------------------------- #
+
+# Avia Solstice Shoulder Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/SolsticeFurisAArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Avia Solstice Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/SolsticeFurisCArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Avia Solstice Ankle Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/SolsticeFurisLArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Nidina Armor Solstice Shoulder Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveA
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Nidina Armor Solstice Chest Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveC
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Nidina Armor Solstice Leg Plate
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnArmorCurve/SolsticeTnArmorCurveL
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Spearmint Scythe Skin
+> /Lotus/StoreItems/Upgrades/Skins/Promo/Seasonal/CandyCaneEtherReaperSkin
+    ShowInMarket=1
+    PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR OTHER #
+# ------------------------------------------------------------------------- #
+
+# Fluctus Rahk Skin
+> /Lotus/StoreItems/Upgrades/Skins/Events/ArchRocketCrossbowGrineer
+    ShowInMarket=1
+    PremiumPrice=65
+
+# Excalibur Umbra Therion Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Excalibur/ExcaliburUmbraAltHelmet
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Mantle of the Lotus
+> /Lotus/StoreItems/Upgrades/Skins/Armor/GuideOfTheLotus/GuideOfTheLotusArmArmor
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Dullahan Mask
+> /Lotus/StoreItems/Upgrades/Skins/Festivities/PumpkinHead
+    ShowInMarket=1
+    PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR TRIAL EMBLEMS #
+# ------------------------------------------------------------------------- #
+
+# Aseron Sekhara
+> /Lotus/StoreItems/Upgrades/Skins/Clan/NightmareSevantiHaloBadgeItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Jordas Sekhara
+> /Lotus/StoreItems/Upgrades/Skins/Clan/GolemRaidBadgeItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Sevati Sekhara
+> /Lotus/StoreItems/Upgrades/Skins/Clan/SevantiHaloBadgeItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Invati Sekhara
+> /Lotus/StoreItems/Upgrades/Skins/Clan/SevantiLegacyHaloBadgeItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR MISC PALETTES #
+# ------------------------------------------------------------------------- #
+
+# Bastille
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerBastilleItem
+    ShowInMarket=1
+    ProductPrice=75
+
+# Matisse
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerTMobileItemA
+    ShowInMarket=1
+    RegularPrice=150000
+
+# Red/White/Blue
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerRWBItem
+    ShowInMarket=1
+    ProductPrice=75
+
+# Sirius
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerSirius
+    ShowInMarket=1
+    RegularPrice=150000
+
+# Orion
+> /Lotus/StoreItems/Types/StoreItems/SuitCustomizations/ColourPickerOrion
+    ShowInMarket=1
+    RegularPrice=150000
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR CONQUERA #
+# ------------------------------------------------------------------------- #
+
+# Conquera Ribbon
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnCharityRibbonArmor/ConqueraChestRibbon
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Conquera Shoulder Ribbon
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnCharityRibbonArmor/ConqueraArmorA
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Conquera Leg Ribbon
+> /Lotus/StoreItems/Upgrades/Skins/Armor/TnCharityRibbonArmor/ConqueraArmorL
+    ShowInMarket=1
+    PremiumPrice=50
+
+# Conquera Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TnCharityRibbonSyandana
+    ShowInMarket=1
+    PremiumPrice=105
+
+# Conquera Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/ConqueraEphemera
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Conquera II Ephemera
+> /Lotus/StoreItems/Upgrades/Skins/Effects/Conquera2022Ephemera
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Zephyr Conquera Helmet
+> /Lotus/StoreItems/Upgrades/Skins/Tengu/ZephyrQTCCHelmet
+
+# Zephyr Conquera Skin
+> /Lotus/StoreItems/Upgrades/Skins/Tengu/ZephyrQTCCBodySkin
+    ShowInMarket=1
+    PremiumPrice=165
+    AdditionalItems={{
+                    TypeName=ZephyrQTCCHelmet
+                    PurchaseQuantity=1
+                    Durability=COMMON
+                    GiveMaxRank=0
+                    }}
+
+# Conquera Uplift Syandana
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/ZephyrQTCCSyandana
+    ShowInMarket=1
+    PremiumPrice=105
+
+# Conquera Magnolia Ink
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Tattoos/TattooTennoI
+    ShowInMarket=1
+    PremiumPrice=35
+
+# Conquera Cherry Tree Ink
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Tattoos/TattooTennoH
+    ShowInMarket=1
+    PremiumPrice=35
+
+# Conquera Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/ConqueraSigil
+    ShowInMarket=1
+    PremiumPrice=40
+
+# Conquera Emblem
+> /Lotus/StoreItems/Upgrades/Skins/Clan/QTCC2024EmblemItem
+    ShowInMarket=1
+    PremiumPrice=50
+
+# NOT WORKING
+# // REVIEW Conquera Theme - UI theme object, not a normal StoreItem slot type; PremiumPrice/ShowInMarket pattern is unverified for this item type
+# Conquera Theme
+> /Lotus/StoreItems/Interface/Graphics/CustomUI/ConqueraStyle
+    ShowInMarket=1
+    PremiumPrice=75
+
+# Conquera Decoration
+> /Lotus/StoreItems/Types/Items/ShipDecos/Conquera2021Deco
+    ShowInMarket=1
+    PremiumPrice=20
+
+# Conquera Kuaka Floof
+> /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2021QTCC
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Sawgaw Floof
+> /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/Plushy2022QTCC
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Virmink Floof
+> /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyVirminkQTCC
+    ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Background
+> /Lotus/StoreItems/Interface/Graphics/CustomUI/Backgrounds/ConqueraBackground
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=75
+
+# Conquera 2024 Community Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Conquera2024Display
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Conquera 2025 Community Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Conquera2025Display
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Conquera 2025 Community Fusion Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/QTCC2in1Display
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Conquera 2023 Community Display
+> /Lotus/StoreItems/Types/Items/ShipDecos/Venus/Conquera2023CommunityDisplay
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=20
+
+# Conquera Glyph IX
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphIX
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera United Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphUpdated
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph VI
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVI
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph VII
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVII
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph VIII
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraGlyphVIII
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Ordis Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageConqueraOrdis
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph III
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2021A
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph IV
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2021B
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph I
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2021C
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph II
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2021D
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera Glyph V
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2022A
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Lotus Symbol Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2022B
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Lotus Symbol Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2022C
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Lotus Symbol Glyph
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageConquera2022D
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=30
+
+# Conquera United Sigil
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/QTCC2023ConqueraSigil
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=40
+
