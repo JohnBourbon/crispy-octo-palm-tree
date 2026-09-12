@@ -1,0 +1,10 @@
+# Make the summon gear items usable by operators
+> /Lotus/Types/Restoratives/HoverboardSummon
+& /Lotus/Types/Restoratives/ErsatzSummon
+& /Lotus/Types/Restoratives/MotorcycleSummon
+	UsableByOperators = 1
+
+# Show x to mount prompt for operators as well
+> /Lotus/Types/Enemies/Corpus/Venus/Hoverboard/CrpHoverboardContextActionUse
+& /Lotus/Types/Vehicles/Motorcycle/UseMotorcycle
+	IgnoredTypes = {}

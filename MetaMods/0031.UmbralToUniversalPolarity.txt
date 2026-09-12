@@ -1,0 +1,7 @@
+> /Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModC
+& /Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModB
+& /Lotus/Upgrades/Mods/Sets/Umbra/WarframeUmbraModA
+& /Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModB
+& /Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModA
+
+s|ArtifactPolarity=[A-Z_]+|ArtifactPolarity=AP_ANY

@@ -1,0 +1,35 @@
+#ALL BOOSTERS HAVE 90 DAY VARIANT
+>/Lotus/Types/StoreItems/Boosters/ModDropChanceBoosterStoreItem
+&/Lotus/Types/StoreItems/Boosters/AffinityBoosterStoreItem
+&/Lotus/Types/StoreItems/Boosters/CreditBoosterStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceAmountBoosterStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceDropChanceBoosterStoreItem
+q|PremiumPrices.COMMON|40
+q|PremiumPrices.UNCOMMON|80
+q|PremiumPrices.RARE|200
+q|PremiumPrices.LEGENDARY|425
+
+# SHOW ALL BOOSTER BUNDLES
+>/Lotus/Types/StoreItems/Packages/CompleteBoosterBundle
+&/Lotus/Types/StoreItems/Boosters/AffinityBooster30DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/AffinityBooster7DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/AffinityBooster90DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/CreditBooster30DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/CreditBooster3DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/CreditBooster7DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/CreditBooster90DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster30DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster3DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster7DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ModDropChanceBooster90DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceAmount30DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceAmount7DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceAmount90DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceDropChance30DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceDropChance3DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceDropChance7DayStoreItem
+&/Lotus/Types/StoreItems/Boosters/ResourceDropChance90DayStoreItem
+q|ShowInMarket|1
+q|OneTimePurchasable|0

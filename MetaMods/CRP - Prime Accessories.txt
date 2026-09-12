@@ -1,0 +1,1894 @@
+# ------------------------------------------------------------------------- #
+# // ANCHOR CHANGELOG #
+# ------------------------------------------------------------------------- #
+
+# Protea Prime Chronorum Helmet (Protea Prime) - fixed: wrong PremiumPrice
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR ALT HELMET #
+# ------------------------------------------------------------------------- #
+
+# Protea Prime Chronorum Helmet (Protea Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Odalisk/ProteaPrimeAltHelmet
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=115
+
+# Mesa Prime Montesa Helmet (Mesa Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Cowgirl/MesaPrimeAltHelmet
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=115
+
+# Khora Prime Larqum Helmet (Khora Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Khora/KhoraPrimeAltHelmet
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=115
+
+# Gauss Prime Blazargaze Helmet (Gauss Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Runner/GaussPrimeAltHelmet
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=115
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR ARCHWING SKIN #
+# ------------------------------------------------------------------------- #
+
+# Cicada Prime Skin (Titania Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Archwing/TitaniaPrimeArchwingSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    PremiumPrice=85
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR ARMOR #
+# ------------------------------------------------------------------------- #
+
+# Nimandi Prime Leg Plates (Lavos Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeLavosArmor/PrimeLavosArmorL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Nimandi Prime Chest Plate (Lavos Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeLavosArmor/PrimeLavosArmorC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Nimandi Prime Shoulder Plates (Lavos Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeLavosArmor/PrimeLavosArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# // REVIEW NOT SURE IF INCLUDED IN BASE FRAME -- NEEDS TESTING
+# Gyre Prime Armor (Gyre Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/GyrePrimeArmArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=75
+
+# Vanda Prime Leg Armor (Gyre Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Vanda Prime Chest Armor (Gyre Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Vanda Prime Shoulder Armor (Gyre Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGyreArmor/PrimeGyreArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# // REVIEW NOT SURE IF INCLUDED IN BASE FRAME -- NEEDS TESTING
+# Voruna Prime Armor (Voruna Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/WarframeDefaults/VorunaPrimeArmArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=75
+
+# Imugi Prime Shoulder Plates (Chroma Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Imugi Prime Chest Plate (Chroma Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Imugi Prime Leg Plates (Chroma Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Anasa Ayatan Prime Shoulder Plates (Ivara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/IvaraPrimeArmor/IvaraPrimeAArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Anasa Ayatan Prime Chest Plate (Ivara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/IvaraPrimeArmor/IvaraPrimeCArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Anasa Ayatan Prime Leg Plates (Ivara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/IvaraPrimeArmor/IvaraPrimeLArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Narvarr Prime Shoulder Plates (Equinox Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeArmorEquinox/PrimeArmorEquinoxA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Narvarr Prime Chest Plate (Equinox Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeArmorEquinox/PrimeArmorEquinoxC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Narvarr Prime Leg Plates (Equinox Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeArmorEquinox/PrimeArmorEquinoxL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Kukri Prime Shoulder Guards (Garuda Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGarudaArmor/PrimeGarudaAArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Kukri Prime Chest Guard (Garuda Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGarudaArmor/PrimeGarudaCArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Kukri Prime Leg Guards (Garuda Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGarudaArmor/PrimeGarudaLArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Doppline Prime Shoulder Plates (Gauss Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGaussArmour/PrimeGaussArmourA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Doppline Prime Chest Plate (Gauss Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGaussArmour/PrimeGaussArmourC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Doppline Prime Leg Plates (Gauss Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeGaussArmour/PrimeGaussArmourL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Mittahk Prime Shoulder Plates (Inaros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeInarosArmor/PrimeInarosArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Mittahk Prime Chest Plate (Inaros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeInarosArmor/PrimeInarosArmorC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Mittahk Prime Leg Plates (Inaros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeInarosArmor/PrimeInarosArmorL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Ransha Prime Shoulder Plates (Nezha Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Ransha Prime Chest Plates (Nezha Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Ransha Prime Leg Plates (Nezha Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeNezhaArmor/PrimeNezhaArmorL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Glissanda Prime Shoulder Plates (Octavia Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Glissanda Prime Chest Plate (Octavia Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Glissanda Prime Leg Plates (Octavia Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeOctaviaArmour/PrimeOctaviaArmourL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Vetala Prime Shoulder Plates (Revenant Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeRevenantArmour/PrimeRevenantArmourA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Vetala Prime Chest Plate (Revenant Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeRevenantArmour/PrimeRevenantArmourC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Vetala Prime Leg Plate (Revenant Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeRevenantArmour/PrimeRevenantArmourL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Spritsail Prime Shoulder Guard (Hydroid Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Spritsail Prime Chest Plate (Hydroid Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Spritsail Prime Leg Guard (Hydroid Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetFour/PrimeSetFourL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Atavist Prime Shoulder Plates (Mirage Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Atavist Prime Chest Plate (Mirage Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Atavist Prime Knee Plates (Mirage Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetMirage/PrimeSetMirageL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Targis Prime Shoulder Plates (Mag Prime, Nyx Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneArmArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Targis Prime Cuirass (Mag Prime, Nyx Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneChestArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Targis Prime Greaves (Mag Prime, Nyx Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetOne/PrimeSetOneLegArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# Acanthus Prime Shoulder Guard (Nekros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=75
+
+# Acanthus Prime Chest Plate (Nekros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=75
+
+# Acanthus Prime Leg Guard (Nekros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetThree/PrimeSetThreeL
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=75
+
+# Edo Prime Shoulder Plates (Nova Prime, Volt Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetTwo/PrimeSetTwoArmArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=75
+
+# Edo Prime Chest Plate (Nova Prime, Volt Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetTwo/PrimeSetTwoChestArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=45|PremiumPrice=75
+
+# Edo Prime Knee Plates (Nova Prime, Volt Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Armor/PrimeSetTwo/PrimeSetTwoLegArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR AVATAR IMAGE #
+# ------------------------------------------------------------------------- #
+
+# Protea Prime Glyph - Dark (Protea Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageProteaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Protea Prime Glyph - Bright (Protea Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageProteaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Sevagoth Prime Glyph - Dark (Sevagoth Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Sevagoth Prime Glyph - Bright (Sevagoth Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageSevagothPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Xaku Prime Glyph - Dark (Xaku Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Xaku Prime Glyph - Bright (Xaku Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageXakuPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Lavos Prime Glyph - Dark (Lavos Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageLavosPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Lavos Prime Glyph - Bright (Lavos Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageLavosPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Yareli Prime Glyph - Dark (Yareli Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Yareli Prime Glyph - Bright (Yareli Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageYareliPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Caliban Prime Glyph - Dark (Caliban Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Caliban Prime Glyph - Bright (Caliban Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageCalibanPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gyre Prime Glyph - Dark (Gyre Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGyrePrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gyre Prime Glyph - Bright (Gyre Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGyrePrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Voruna Prime Glyph - Dark (Voruna Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Voruna Prime Glyph - Bright (Voruna Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageVorunaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ash Prime Glyph - Bright (Ash Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ash Prime Glyph - Dark (Ash Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAshPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Atlas Prime Glyph - Bright (Atlas Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAtlasPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Atlas Prime Glyph - Dark (Atlas Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageAtlasPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Banshee Prime Glyph - Bright (Banshee Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheePrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Banshee Prime Glyph - Dark (Banshee Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageBansheePrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Chroma Prime Glyph - Bright (Chroma Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Chroma Prime Glyph - Dark (Chroma Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageChromaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ember Prime Glyph - Bright (Ember Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ember Prime Glyph - Dark (Ember Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEmberPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Equinox Prime Glyph - Bright (Equinox Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEquinoxPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Equinox Prime Glyph - Dark (Equinox Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageEquinoxPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Frost Prime Glyph - Bright (Frost Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Frost Prime Glyph - Dark (Frost Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageFrostPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Hydroid Prime Glyph - Bright (Hydroid Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageHydroidPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Hydroid Prime Glyph - Dark (Hydroid Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageHydroidPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Inaros Prime Glyph - Bright (Inaros Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageInarosPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Inaros Prime Glyph - Dark (Inaros Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageInarosPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ivara Prime Glyph - Bright (Ivara Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageIvaraPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Ivara Prime Glyph - Dark (Ivara Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageIvaraPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Limbo Prime Glyph - Bright (Limbo Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Limbo Prime Glyph - Dark (Limbo Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLimboPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Loki Prime Glyph - Bright (Loki Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Loki Prime Glyph - Dark (Loki Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageLokiPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mag Prime Glyph - Bright (Mag Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mag Prime Glyph - Dark (Mag Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMagPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mesa Prime Glyph - Bright (Mesa Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMesaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mesa Prime Glyph - Dark (Mesa Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMesaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mirage Prime Glyph - Bright (Mirage Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMiragePrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Mirage Prime Glyph - Dark (Mirage Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageMiragePrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nekros Prime Glyph - Bright (Nekros Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nekros Prime Glyph - Dark (Nekros Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNekrosPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nezha Prime Glyph - Bright (Nezha Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNezhaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nezha Prime Glyph - Dark (Nezha Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNezhaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nova Prime Glyph - Bright (Nova Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nova Prime Glyph - Dark (Nova Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNovaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nyx Prime Glyph - Bright (Nyx Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nyx Prime Glyph - Dark (Nyx Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageNyxPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Oberon Prime Glyph - Bright (Oberon Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Oberon Prime Glyph - Dark (Oberon Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOberonPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Octavia Prime Glyph - Bright (Octavia Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOctaviaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Octavia Prime Glyph - Dark (Octavia Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageOctaviaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Rhino Prime Glyph - Bright (Rhino Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Rhino Prime Glyph - Dark (Rhino Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageRhinoPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Saryn Prime Glyph - Bright (Saryn Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Saryn Prime Glyph - Dark (Saryn Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageSarynPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Titania Prime Glyph - Bright (Titania Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTitaniaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Titania Prime Glyph - Dark (Titania Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTitaniaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Trinity Prime Glyph - Bright (Trinity Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Trinity Prime Glyph - Dark (Trinity Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageTrinityPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Valkyr Prime Glyph - Bright (Valkyr Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Valkyr Prime Glyph - Dark (Valkyr Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageValkyrPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Vauban Prime Glyph - Bright (Vauban Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVaubanPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Vauban Prime Glyph - Dark (Vauban Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVaubanPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Volt Prime Glyph - Bright (Volt Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Volt Prime Glyph - Dark (Volt Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageVoltPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Wukong Prime Glyph - Bright (Wukong Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageWukongPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Wukong Prime Glyph - Dark (Wukong Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageWukongPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Zephyr Prime Glyph - Bright (Zephyr Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Zephyr Prime Glyph - Dark (Zephyr Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageZephyrPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Baruuk Prime Glyph - Bright (Baruuk Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Baruuk Prime Glyph - Dark (Baruuk Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageBaruukPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gara Prime Glyph - Bright (Gara Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gara Prime Glyph - Dark (Gara Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGaraPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Garuda Prime Glyph - Bright (Garuda Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGarudaPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Garuda Prime Glyph - Dark (Garuda Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGarudaPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gauss Prime Glyph - Bright (Gauss Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGaussPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Gauss Prime Glyph - Dark (Gauss Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGaussPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Grendel Prime Glyph - Bright (Grendel Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGrendelPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Grendel Prime Glyph - Dark (Grendel Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageGrendelPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Harrow Prime Glyph - Bright (Harrow Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageHarrowPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Harrow Prime Glyph - Dark (Harrow Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageHarrowPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Hildryn Prime Glyph - Bright (Hildryn Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageHildrynPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Hildryn Prime Glyph - Dark (Hildryn Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageHildrynPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Khora Prime Glyph - Bright (Khora Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageKhoraPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Khora Prime Glyph - Dark (Khora Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageKhoraPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nidus Prime Glyph - Bright (Nidus Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageNidusPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Nidus Prime Glyph - Dark (Nidus Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageNidusPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Revenant Prime Glyph - Bright (Revenant Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageRevenantPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Revenant Prime Glyph - Dark (Revenant Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageRevenantPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Wisp Prime Glyph - Bright (Wisp Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageWispPrimeBright
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# Wisp Prime Glyph - Dark (Wisp Prime)
+> /Lotus/StoreItems/Types/StoreItems/AvatarImages/Primes/ImageWispPrimeDark
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=45
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR COMPANION ARMOR #
+# ------------------------------------------------------------------------- #
+
+# Castellan Prime Armor (Gara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorGaraPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=75
+
+# Tibor Prime Armor (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=75
+
+# Kavasa Prime Kubrow Armor (Trinity Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/PrimeKubrowArmorA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=75
+
+# Sanzang Prime Kubrow Armor (Wukong Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/WukongPrimeKubrowArmor
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR COMPANION COLLAR #
+# ------------------------------------------------------------------------- #
+
+# Kavasa Prime Kubrow Collar (Trinity Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Kubrows/Collars/PrimeKubrowCollarA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR COMPANION DYE #
+# ------------------------------------------------------------------------- #
+
+# Maipal Yellow (Gara Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorAccents
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Naru Blue (Gara Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorBase
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Paskan Crimson (Gara Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorSecondary
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Aros Brown (Gara Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/GaraPrimeCatbrowPetColorTertiary
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Argon Violet (Zephyr Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/PrimeCatbrowPetColorAccents
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Carbon Grey (Zephyr Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/PrimeCatbrowPetColorBaseA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Gallium Ash (Zephyr Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/PrimeCatbrowPetColorSecondaryA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Prime Gold (Zephyr Prime)
+> /Lotus/StoreItems/Types/Game/CatbrowPet/Colors/PrimeCatbrowPetColorTertiaryA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Tidal Blue (Wukong Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowColorWukongPrimeMid
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Corrupted Gold (Wukong Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowColorWukongPrimeMundane
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Derelict White (Wukong Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowColorWukongPrimeVibrant
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Kavasa White (Trinity Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Orokin Gold (Trinity Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Origin Brown (Trinity Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Colors/KubrowPetColorPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10|PremiumPrice=30
+
+# Kavasa Prime Fur Pattern (Trinity Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/KubrowPetPatternPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=30
+
+# Tang Prime Kubrow Fur Pattern (Wukong Prime)
+> /Lotus/StoreItems/Types/Game/KubrowPet/Patterns/WukongPrimeKubrowPattern
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=30
+
+# Sabella Prime Fur Pattern (Gara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Catbrows/GaraPrimeCatbrowFur
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=30
+
+# Tibor Prime Fur Pattern (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Catbrows/PrimeCatbrowFur
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR EMOTE #
+# ------------------------------------------------------------------------- #
+
+# Interalpha Prime Narta (Khora Prime)
+> /Lotus/StoreItems/Types/Items/Emotes/KhoraPrimeEmote
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=45
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR EPHEMERA #
+# ------------------------------------------------------------------------- #
+
+# Temporal Prime Ephemera (Protea Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/ProteaPrimeEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Thalassa Prime Ephemera (Yareli Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/YareliPrimeEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Okuri Tails Prime Ephemera (Voruna Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/PrimeVorunaEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=70|PremiumPrice=115
+
+# Vaaditum Prime Ephemera (Baruuk Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/BaruukPrimeEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Catena Prime Ephemera (Gara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraGaraPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Baurahn Prime Ephemera (Nezha Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraNezhaPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Corposant Prime Ephemera (Wukong Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/EphemeraPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Sanguinax Prime Ephemera (Garuda Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/GarudaPrimeEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# Oni Prime Ephemera (Grendel Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Effects/GrendelPrimeEphemera
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=165|PremiumPrice=115
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR MELEE DANGLE #
+# ------------------------------------------------------------------------- #
+
+# Cateno Prime Sugatra (Vauban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/CatenoPrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=30
+
+# Kazeru Prime Sugatra (Volt Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/KazeruPrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=5000|PremiumPrice=30
+
+# Sardin Prime Sugatra (Hydroid Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeDangleEMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Cholla Prime Sugatra (Mesa Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeDangleF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=30
+
+# Daman Prime Sugatra (Loki Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/PrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=30
+
+# Naviga Prime Sugatra (Trinity Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ScrollingPrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=30
+
+# Aroka Prime Sugatra (Oberon Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/SurakaPrimeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=30
+
+# Vala Prime Sugatra (Nyx Prime)
+> /Lotus/StoreItems/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=10000|PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR MISC COSMETIC #
+# ------------------------------------------------------------------------- #
+
+# // REVIEW NOT SURE IF INCLUDED IN BASE FRAME -- NEEDS TESTING
+# Caliban Prime Pinions (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentient/CalibanPrimeAuxFloater
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=85
+
+# Vilkas Prime Sumdali (Voruna Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Liset/VorunaPrimeHoodOrnament
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=50
+
+# Infested Orbiter Decorations (Nidus Prime)
+> /Lotus/StoreItems/Types/Game/ShipScenes/NidusPrimeScene
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=85
+
+# Liset Prime Skin (Valkyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=85
+
+# Karnolyth Necramech Skin (Nidus Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Necramech/InfestedNecraMechSkin
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=120|PremiumPrice=85
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR OPERATOR ACCESSORY #
+# ------------------------------------------------------------------------- #
+
+# Necra Prime Hood (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Necra Prime Hood (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=55
+
+# Necra Prime Cuirass (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Necra Prime Sleeves (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Necra Prime Cuirass (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Necra Prime Greaves (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Necra Prime Sleeves (Xaku Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesPrimeE
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Tauron Prime Hood (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Tauron Prime Hood (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=55
+
+# Tauron Prime Regalia (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Tauron Prime Greaves (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Tauron Prime Sleeves (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Tauron Prime Regalia (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Tauron Prime Greaves (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Tauron Prime Sleeves (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesPrimeF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Erlang Prime Oculus (Mesa Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/PrimeAccessoriesAFacial
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=55
+
+# Respa Prime Mask (Mesa Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/PrimeAccessoriesBFacial
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=55
+
+# Anten Prime Earpiece (Mesa Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/PrimeAccessoriesCEar
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=55
+
+# Clearvoy Prime Suit (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitAdultPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Saita Prime Suit (Valkyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Templar Prime Suit (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Clearvoy Prime Suit (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Clearvoy Prime Hood (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodAdultPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Saita Prime Hood (Valkyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=55
+
+# Templar Prime Hood (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=55
+
+# Clearvoy Prime Hood (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Hoods/HoodPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=55
+
+# Clearvoy Prime Leggings (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsAdultPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Saita Prime Leggings (Valkyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Templar Prime Leggings (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Clearvoy Prime Leggings (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Leggings/LeggingsPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Commodore Prime Apparel (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtPrimeB
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Templar Prime Apparel (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Skirts/SkirtPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Clearvoy Prime Sleeves (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesAdultPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=55
+
+# Saita Prime Sleeves (Valkyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesPrimeA
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Templar Prime Sleeves (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesPrimeC
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# Clearvoy Prime Sleeves (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Sleeves/SleevesPrimeD
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=25|PremiumPrice=55
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR OPERATOR ARMOUR #
+# ------------------------------------------------------------------------- #
+
+# Commodore Prime Pauldrons (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourArms
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=75
+
+# Commodore Prime Cuirass (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourBody
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=75
+
+# Commodore Prime Mask (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourHead
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=75
+
+# Commodore Prime Greaves (Zephyr Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Operator/Armour/OperatorPrimeArmour/OperatorPrimeArmourLegs
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=75
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SENTINEL ACCESSORY #
+# ------------------------------------------------------------------------- #
+
+# Navic Prime Mask (Sevagoth Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/NautilusPrimeSentinelMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Navic Prime Tail (Sevagoth Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/NautilusPrimeSentinelTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Navic Prime Wings (Sevagoth Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/NautilusPrimeSentinelWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Orcus Prime Mask (Atlas Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/DethcubePrimeMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Heimt Prime Sentinel Mask (Hildryn Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/HeimtPrimeSentinelMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Ictus Prime Mask (Banshee Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/IctusPrimeMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Summus Prime Sentinel Mask (Loki Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/OrokinMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=30|PremiumPrice=30
+
+# Unda Prime Sentinel Mask (Ash Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrimeSentinelMask
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Orcus Prime Tail (Atlas Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/DethcubePrimeTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Heimt Prime Sentinel Tail (Hildryn Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/HeimtPrimeSentinelTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Ictus Prime Tail (Banshee Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/IctusPrimeTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Summus Prime Sentinel Tail (Loki Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/OrokinTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Unda Prime Sentinel Tail (Ash Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/PrimeSentinelTail
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Orcus Prime Wings (Atlas Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/DethcubePrimeWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Heimt Prime Sentinel Wings (Hildryn Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/HeimtPrimeSentinelWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Ictus Prime Wings (Banshee Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/IctusPrimeWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Summus Prime Sentinel Wings (Loki Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/OrokinWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# Unda Prime Sentinel Wings (Ash Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrimeSentinelWings
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=15|PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SHIP DECORATION #
+# ------------------------------------------------------------------------- #
+
+# Transmutation Probe Prime Decoration (Lavos Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/LavosPrimeDeviceDeco
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=30
+
+# Merulina Prime Domestik Drone (Yareli Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropCleaningDroneYareliPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=30
+
+# Baruuk Prime Mandala (Baruuk Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/BaruukPrimePattern
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=20|PremiumPrice=30
+
+# Maggot Prime (Nidus Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/InfestationPrimeShipMaggot
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=30
+
+# Aristei Prime Shawzin (Octavia Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/LisetPropShawzinPrime
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=40|PremiumPrice=30
+
+# Gauss Prime Floof (Gauss Prime)
+> /Lotus/StoreItems/Types/Items/ShipDecos/Plushies/GaussPrimePlush
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=35|PremiumPrice=30
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SIGIL #
+# ------------------------------------------------------------------------- #
+
+# Velorum Prime Sigil (Nova Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeAccessSigilFive
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=60
+
+# Rift Walker Prime Sigil (Limbo Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeAccessSigilLimbo
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=60
+
+# Cycuta Prime Sigil (Saryn Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeAccessSigilSaryn
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=75|PremiumPrice=60
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SIGNA/CROWN #
+# ------------------------------------------------------------------------- #
+
+# Maginav Prime Signa (Sevagoth Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Crowns/PrimeSevagothHaloCrown
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=60|PremiumPrice=105
+
+# ------------------------------------------------------------------------- #
+# // ANCHOR SYANDANA #
+# ------------------------------------------------------------------------- #
+
+# Vitam Prime Syandana (Lavos Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/VitamPrimeSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Merulina Prime Syandana (Yareli Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeMerulinaSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=160
+
+# Neurovyre Prime Syandana (Caliban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/NeurovyrePrimeSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Triodic Prime Syandana (Gyre Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeGyreSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Hanteler Prime Syandana (Voruna Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeVorunaSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Cycuta Prime Syandana (Saryn Prime)
+> /Lotus/StoreItems/Characters/Tenno/Accessory/Scarves/PrimeScarfD/Cloth/PrimeScarfDItem
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=160
+
+# Apavada Prime Syandana (Ivara Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/IvaraPrimeCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Kerata Prime Syandana (Khora Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/KhoraPrimeSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Crinoid Prime Syandana (Nidus Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/NidusPrimeSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=160
+
+# Noru Prime Syandana (Rhino Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/NoruPrimeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Asila Prime Syandana (Baruuk Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeAkrabuSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Altra Prime Syandana (Gauss Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeAltraScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=160
+
+# Isabeau Prime Syandana (Equinox Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeCapeEquinox
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Impetus Prime Syandana (Chroma Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeChromaCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Pyra Prime Syandana (Ember Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeFlameScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=70|PremiumPrice=160
+
+# Sumbha Prime Syandana (Grendel Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeGrendelSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=100|PremiumPrice=160
+
+# Kahtuss Prime Syandana (Inaros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeInarosSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Oblivia Prime Syandana (Limbo Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeLimboCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Nave Prime Syandana (Harrow Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeNaveScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=90|PremiumPrice=160
+
+# Sukira Prime Syandana (Oberon Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOberonCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=160
+
+# Serenidine Prime Syandana (Octavia Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeOctaviaSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    # // REVIEW no platinumCost found in Public Export -- plain override, no real find-value confirmed
+    PremiumPrice=160
+
+# Aurimus Prime Syandana (Revenant Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeRevenantCape
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=70|PremiumPrice=160
+
+# Misa Prime Syandana (Frost Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Massif Prime Syandana (Atlas Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarfAtlas
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Capella Prime Syandana (Banshee Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarfF
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Abbera Prime Syandana (Mirage Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarfG
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=1000|PremiumPrice=160
+
+# Citadella Prime Syandana (Vauban Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeScarfV
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Surator Prime Syandana (Hildryn Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeSuratorSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Entheor Prime Syandana (Wisp Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeWispSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Jindou Prime Syandana (Wukong Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/PrimeWukongSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Gigelorum Prime Syandana (Titania Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/TitaniaPrimeSyandana
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=105|PremiumPrice=160
+
+# Uru Prime Syandana (Nekros Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/UruPrimeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=0|PremiumPrice=160
+
+# Yamako Prime Syandana (Ash Prime)
+> /Lotus/StoreItems/Upgrades/Skins/Scarves/YamakoPrimeScarf
+    r|ExcludeFromCodex=1|ExcludeFromCodex=0
+    r|ShowInMarket=0|ShowInMarket=1
+    r|PremiumPrice=50|PremiumPrice=160
+
