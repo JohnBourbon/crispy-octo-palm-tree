@@ -2,7 +2,6 @@
   "schema_version": 1,
   "config_version": 3,
 
-  "background_animations_enabled": false,
   "background_image": "dd8aab6f-47fd-4eb6-9fd1-37bac999853c",
   
   "server_host": "openwf-sp.duckdns.org",
