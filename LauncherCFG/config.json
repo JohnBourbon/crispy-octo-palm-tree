@@ -1,13 +1,6 @@
 {
   "schema_version": 1,
-  "config_version": 1,
-
-  "latest_launcher_version": "5.30",
-  "minimum_launcher_version": "5.30",
-  "launcher_update_enabled": false,
-  "launcher_update_url": "",
-  "launcher_sha256": "",
-  "release_notes": "",
+  "config_version": 2,
 
   "server_host": "openwf-sp.duckdns.org",
   "depot_id": "230411",
@@ -23,7 +16,7 @@
   "metadata_patches_enabled": true,
   "metadata_patches_repo_zip_url": "https://github.com/JohnBourbon/crispy-octo-palm-tree/archive/refs/heads/main.zip",
 
-  "bootfix_enabled": true,
+  "bootfix_enabled": false,
 
   "client": {
     "fallback_language": "en",
