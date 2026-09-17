@@ -1,18 +1,30 @@
 {
+  "schema_version": 1,
+  "config_version": 1,
+
+  "latest_launcher_version": "5.30",
+  "minimum_launcher_version": "5.30",
+  "launcher_update_enabled": false,
+  "launcher_update_url": "",
+  "launcher_sha256": "",
+  "release_notes": "",
+
   "server_host": "openwf-sp.duckdns.org",
   "depot_id": "230411",
   "manifest_id": "8617432299175747361",
   "steam_appid": "230410",
+
   "bootstrapper_url": "https://about.openwf.io/supplementals/Bootstrapper%20Setup.exe",
+  "bootstrapper_auto_run": true,
+  "bootstrapper_hidden": true,
+
   "patch_google_drive_url": "https://drive.google.com/uc?export=download&id=1iLVty5M5Pq8euHEWQ7WOfbzweZNYdj-8",
-  "patch_required": true,
+
   "metadata_patches_enabled": true,
-  "metadata_patches_repo_zip_url": "https://github.com/darkselfbr1/crispy-octo-palm-tree/archive/refs/heads/main.zip",
+  "metadata_patches_repo_zip_url": "https://github.com/JohnBourbon/crispy-octo-palm-tree/archive/refs/heads/main.zip",
+
   "bootfix_enabled": true,
-  "warframe_exe_path": "C:\\Games\\Warframe (Follie)\\Warframe.x64.exe",
-  "login_email": "c@c.com",
-  "login_password": "123",
-  "final_game_folder": "Warframe (OpenWF)",
+
   "client": {
     "fallback_language": "en",
     "fallback_languageVO": "en",
@@ -49,10 +61,5 @@
     "disable_overlay": false,
     "overlay_compatibility_mode": false,
     "keep_console_open": false
-  },
-  "mango_progress_enabled": true,
-  "allow_existing_installation": true,
-  "bootstrapper_auto_run": true,
-  "bootstrapper_hidden": true,
-  "cleanup_temporary_files": true
+  }
 }
