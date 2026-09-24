@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "config_version": 3,
+  "config_version": 4,
 
-  "background_image": "dd8aab6f-47fd-4eb6-9fd1-37bac999853c",
+  "background_image": "c6f703d3-746f-48d2-af96-651c383c7f5b",
   
   "server_host": "openwf-sp.duckdns.org",
   "depot_id": "230411",
